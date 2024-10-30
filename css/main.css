@@ -1,23 +1,23 @@
 /* Global rules */
 
-@import url('https://fonts.googleapis.com/css?family=Quicksand');
+@import url('https://fonts.googleapis.com/css?family=Tangerine|Inconsolata|Droid+Sans');
 
 html {
-    background-color: lightgray;
-    font-family: 'Quicksand', sans-serif;
+    background-color: rgb(157, 22, 7);
+    font-family: 'Inconsolata', sans-serif;
     font-size: 0.95em;
     line-height: 1.5em;
 }
 
 ::selection {
-    color: #000; 
+    color: #8c0f0f; 
     background: #ff0;
 }
 
 h1 {
     font-weight: normal;
     margin: auto;
-    background: #fff;
+    background: #fffa5b;
     line-height: 2.5em;
 }
 
